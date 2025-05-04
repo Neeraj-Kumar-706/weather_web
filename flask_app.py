@@ -7,7 +7,7 @@ import pytz
 app = Flask(__name__)
 
 # Get your OpenWeather API key (store securely)
-API_KEY = "7223fdda660a42b97338de79091c1f28"  # Replace with your OpenWeather API key
+API_KEY = ""  # Replace with your OpenWeather API key
 CITY = "Delhi, IN"  # Replace with your desired city
 TIMEZONE = "Asia/Kolkata"  # Replace with your local timezone, e.g., "America/New_York"
 
